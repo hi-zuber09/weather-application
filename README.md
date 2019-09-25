@@ -1,5 +1,4 @@
 # weather-application
-already i have sent you all my project folder.
 activate environment
 after activating environment then run command as"python manage.py runserver"
 you will get local host link copy that link and open chrome browser paste it on google
